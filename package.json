@@ -1,0 +1,19 @@
+{
+  "name": "furniture",
+  "version": "1.0.0",
+  "description": "TITLE:  Shop - 100% Fully Responsive Free HTML5 Bootstrap Template",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "web":"node index.js"
+  },
+  "author": "Nelson Ejegi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "nodemon": "^2.0.3",
+    "stripe": "^8.47.0"
+  }
+}
